@@ -11,7 +11,7 @@ while True:
     cont = input("Enter 1 to play again. Enter 0 to end program.")
   
     if cont == '0':
-        return 0
+        break
   
   
   
