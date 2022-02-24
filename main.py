@@ -4,7 +4,7 @@ from class_wordle_bot import Wordle_bot
 while True:
     print("Starting wordle game...")
   
-    bot = Wordle_bot
+    bot = Wordle_bot()
   
     bot.play()
   
